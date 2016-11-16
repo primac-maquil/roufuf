@@ -1,0 +1,26 @@
+Chat ID: 34737535 Initial Question: I want to shift roufuf domain to some other hosting providers company so i want to know the procedure how can i do this? Secondly how much amount will be refund to me and when?
+3:05:51 PMThirumalesha L Hello Kamran,
+3:05:56 PMThirumalesha L Thank you for contacting support. I apologize for the wait time.
+3:06:32 PMKamran no issue
+3:08:01 PMThirumalesha L For security purposes, we'll need you to validate ownership of your account. May I have the last four characters of your main account password?
+3:08:23 PMKamran @123
+3:10:38 PMThirumalesha L Thank you for validating.
+3:11:58 PMThirumalesha L You want to transfer all the website files and domain register to other hosting right ?
+3:14:36 PMKamran No i have to just shift my domain roufuf.com to some other hosting company
+3:14:56 PMKamran no files needed to transfer
+3:15:54 PMThirumalesha L Yes you can transfer the domain register to other hosting but you will not get a refund here .
+3:16:48 PMKamran what is the procedure
+3:17:04 PMThirumalesha L Here is the help link https://my.bluehost.com/hosting/help/transferaway
+3:22:24 PMThirumalesha L Are you with me ?
+3:22:47 PMKamran yes
+3:23:34 PMKamran you will make transferring hosting process properly?
+3:24:04 PMThirumalesha L Are unlock the domain status so I can send the EPP code to your register email address . After that you need to contact the new register with the EPP code .
+3:24:51 PMThirumalesha L Please access the link and select your domain , you will get a option called Lock Status:	LOCKED (edit). please click on that to unlock the domain . https://2944973.my.bluehost.com/cgi/dm
+3:25:46 PMKamran ok thanks! i have a technical question
+3:26:18 PMThirumalesha L Sure. may I know the questions please ?
+3:26:41 PMKamran may i run django server on bluehost shared hosting on port 80?
+3:27:34 PMKamran because i have django application and i want to deploy it on my roufuf.com domain
+3:28:32 PMThirumalesha L Okay.Let me confirm with our experts .
+3:29:15 PMKamran i mean how i run django server with apache on roufuf.com
+3:30:40 PMThirumalesha L Sorry it is not possible to run the django server in shared hosting ./
+3:32:40 PMKamran ok thanks for your nice cooperation.
